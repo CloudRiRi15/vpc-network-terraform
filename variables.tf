@@ -27,7 +27,7 @@ variable "private_app_subnet_az1_cidr" {
 } 
 
 # private app subnet AZ2 cidr block
-variable "private_app_subnet_az1_cidr" {
+variable "private_app_subnet_az2_cidr" {
   default     = "10.0.3.0/24"
   description = "CIDR block for the private app subnet in AZ2"
   type        = string
