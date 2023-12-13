@@ -1,4 +1,4 @@
-# Configure the AWS Provider
+# Configure the AWS Provider https://registry.terraform.io/providers/hashicorp/aws/latest/docs
 terraform {
   required_providers {
     aws = {
